@@ -3,49 +3,51 @@
 ### Neural Networks and Deep Learning
 Python Basics with Numpy
 
-Logistic Regression Cat Classifier
+Logistic Regression - Cat Classifier
 
 Planar data classification with one hidden layer
 
 Building Deep Neural Network: Step by Step
 
-Deep Neural Network Cat Classifier
+Deep Neural Network - Cat Classifier
 
 ### Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-Initialization
+Initialization - Zero, Random, He Initialization
 
-Regularization
+Regularization - L2 Regularization, Dropout
 
 Gradient Checking
 
-Optimization methods
+Optimization methods - SGD, Mini-Batch, Momentum, Adam Optimization
 
-Tensorflow Tutorial
+Tensorflow Tutorial - Hand Signs Classifier
 
 ### Convolutional Neural Networks
 Convolution Model: Step by Step
 
-Convolution Model: Application
+Convolution Model - Hand Signs Classifier
 
-Keras Tutorial - Happy House
+Keras Tutorial - Happy Face Classifier
 
-Residual Networks
+Residual Networks - Hand Signs Classifier
 
 Autonomous driving application: Car detection
 
-Face Recognition for the Happy House
+Face Recognition
 
 Art Generation with Neural Style Transfer
 
 ### Sequence Models
 Building a Recurrent Neural Network - Step by Step
 
-Dinosaurus Island - Character-Level Language Modeling
+Character-Level Language Modeling - Dinosaur Names Generation
 
-Operations on word vectors
+Improvise a Jazz Solo with an LSTM Network - Generate Music
+
+Operations on word vectors - Word Analogies
 
 Emojify
 
-Neural machine translation with attention
+Neural machine translation with attention - Translate Dates
 
 Trigger word detection
